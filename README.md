@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm passionate about Web Development and always ex
 Web Development, Frontend Technologies, Backend Technologies.
 
 ## 🌱 I’m currently learning
-I'm currently diving into the world of .NET and Angular, expanding my knowledge and honing my skills in these technologies.
+I'm currently diving into the world of Web Devolopment and React js, expanding my knowledge and honing my skills in these technologies.
 
 ## 💞️ I’m looking to collaborate on
 I'm open to collaborating on interesting web development projects. Feel free to reach out if you have an exciting project or idea.
